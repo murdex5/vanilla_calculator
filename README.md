@@ -1,2 +1,2 @@
 # vanilla_calculator
-A simple calculator using django
+Basic calculator app using django
